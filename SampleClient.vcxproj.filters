@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{5f1c59d2-2d12-4e25-93d6-fd438e87ffaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{dd823481-6f8d-45cd-9cb1-620e8304ab10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mission">
+      <UniqueIdentifier>{8ce8bb05-aa2c-4d71-879d-89afb1f30d18}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Controller.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="PID.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadSerial.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkClient.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Robot.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadLock.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Leg.h">
+      <Filter>Mission</Filter>
+    </ClInclude>
+    <ClInclude Include="Mission.h">
+      <Filter>Mission</Filter>
+    </ClInclude>
+    <ClInclude Include="Swarm.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Serial.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="MichaelFares.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="NetworkClient.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Robot.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadLock.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadSerial.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="PID.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leg.cpp">
+      <Filter>Mission</Filter>
+    </ClCompile>
+    <ClCompile Include="Mission.cpp">
+      <Filter>Mission</Filter>
+    </ClCompile>
+    <ClCompile Include="Swarm.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Serial.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="hover_vicon.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SampleClient.rc" />
+  </ItemGroup>
+</Project>

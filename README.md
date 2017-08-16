@@ -44,7 +44,7 @@
  1. Open the project.
  2. Set the COM port of your arduinos in hover_vicon class by changing the value robot[i].OpenSerial(value).
  3. Set the mission for each drone using robot[i].SetMission() in hover_vicon.
- 4.Hit Run.
+ 4. Hit Run.
 
 </details>
 

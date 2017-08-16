@@ -2,7 +2,7 @@
 
 * Stabilizing drones.
 * Giving commands to the drones.
-* Make group of drones work in groups.
+* Make group of drones work in together.
 
 ## How to start
 

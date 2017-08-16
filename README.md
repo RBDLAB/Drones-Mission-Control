@@ -8,10 +8,10 @@
 
 <details><summary> Hardware </summary>
 
- - Arduino uno.
- - 6x optitrack flex 3 cameras
- - syma x5c
- - Pc
+ 1. Arduino uno.
+ 2. 6x optitrack flex 3 cameras
+ 3. syma x5c
+ 4. Pc
  
 </details>
 
@@ -20,8 +20,8 @@
 
  <details><summary> Software </summary>
 
- - Optitrack motive
- -  Visual Studio
+ 1. Optitrack motive
+ 2. Visual Studio
 
 </details>
 

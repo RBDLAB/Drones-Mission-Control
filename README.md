@@ -56,3 +56,7 @@
 
 * `OpenSerial()` Sets the controlling Arduino COM port for the drone.
 * `setIsMainRobot()` setting master or slave, setting as drone as slave will make it follow the other drone that was set using `setMainRobot()`
+
+**Hover_Vicon Class**
+
+*Change `NROBOTS` to define number of drones you are using.
